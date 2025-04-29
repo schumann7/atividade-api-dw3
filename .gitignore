@@ -1,2 +1,3 @@
 .venv
 banco.txt
+__pycache__
